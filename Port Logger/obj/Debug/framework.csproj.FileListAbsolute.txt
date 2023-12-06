@@ -1,0 +1,20 @@
+C:\Users\efeka\source\repos\framework\framework\obj\Debug\framework.csproj.AssemblyReference.cache
+C:\Users\efeka\source\repos\framework\framework\obj\Debug\UdemyEgitim.Form1.resources
+C:\Users\efeka\source\repos\framework\framework\obj\Debug\framework.Properties.Resources.resources
+C:\Users\efeka\source\repos\framework\framework\obj\Debug\framework.csproj.GenerateResource.cache
+C:\Users\efeka\source\repos\framework\framework\obj\Debug\framework.csproj.CoreCompileInputs.cache
+C:\Users\efeka\source\repos\framework\framework\bin\Debug\framework.exe.config
+C:\Users\efeka\source\repos\framework\framework\bin\Debug\framework.exe
+C:\Users\efeka\source\repos\framework\framework\bin\Debug\framework.pdb
+C:\Users\efeka\source\repos\framework\framework\obj\Debug\framework.exe
+C:\Users\efeka\source\repos\framework\framework\obj\Debug\framework.pdb
+C:\Users\efeka\OneDrive\Masaüstü\framework\bin\Debug\Fanix Port Logger.exe.config
+C:\Users\efeka\OneDrive\Masaüstü\framework\bin\Debug\Fanix Port Logger.exe
+C:\Users\efeka\OneDrive\Masaüstü\framework\bin\Debug\Fanix Port Logger.pdb
+C:\Users\efeka\OneDrive\Masaüstü\framework\obj\Debug\framework.csproj.AssemblyReference.cache
+C:\Users\efeka\OneDrive\Masaüstü\framework\obj\Debug\UdemyEgitim.Form1.resources
+C:\Users\efeka\OneDrive\Masaüstü\framework\obj\Debug\framework.Properties.Resources.resources
+C:\Users\efeka\OneDrive\Masaüstü\framework\obj\Debug\framework.csproj.GenerateResource.cache
+C:\Users\efeka\OneDrive\Masaüstü\framework\obj\Debug\framework.csproj.CoreCompileInputs.cache
+C:\Users\efeka\OneDrive\Masaüstü\framework\obj\Debug\Fanix Port Logger.exe
+C:\Users\efeka\OneDrive\Masaüstü\framework\obj\Debug\Fanix Port Logger.pdb
