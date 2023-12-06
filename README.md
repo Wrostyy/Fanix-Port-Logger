@@ -1,6 +1,6 @@
 **Features**
 
--Clean and user-friendly menu
+-Clean and user friendly menu
 
 -Retrieves and logs the IP address information of clients connecting to the port
 
